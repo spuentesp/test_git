@@ -7,7 +7,7 @@ roles = {
     "1": "Héroe (Protector de la luz)",
     "2": "Villano (Señor de la oscuridad)",
     "3": "Anti-héroe (Justiciero solitario)",
-    "4": "NPC (Jugador Planta)"
+    "4": "Secundario importante (El con la historia mas interesante)"
 }
 
 clases = {
