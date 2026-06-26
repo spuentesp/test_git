@@ -6,13 +6,15 @@ nombre = input("Ingresa el nombre de tu personaje: ").strip()
 roles = {
     "1": "Héroe (Protector de la luz)",
     "2": "Villano (Señor de la oscuridad)",
-    "3": "Anti-héroe (Justiciero solitario)"
+    "3": "Anti-héroe (Justiciero solitario)",
+    "4": "Civil (Simplemente esta de paso)" 
 }
 
 clases = {
     "1": "Guerrero (Fuerza y acero)",
     "2": "Mago (Hechizos y misterio)",
-    "3": "Pícaro (Sigilo y agilidad)"
+    "3": "Pícaro (Sigilo y agilidad)",
+    "4": "Bardo (Musica y poesia)"
 }
 
 # 3. Selección del Rol
